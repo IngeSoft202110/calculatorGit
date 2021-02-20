@@ -11,6 +11,6 @@ public class CalculatorSARO{
 	@Override
 	public double divide (double a, double b) throws ArithmeticException { return ((b==0) ? 0 : a/b);}
 	@Override
-	public String about(){Authors.SARO}
+	public String about(){return Authors.SARO}
 }
 
