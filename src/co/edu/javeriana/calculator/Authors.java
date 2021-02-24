@@ -10,6 +10,11 @@ public class Authors {
 	public static String SDS = "Sim�n D�vila Saravia";
 	public static String JFH = "Juan Francisco Hamon";
     public static String JMAA = "Jose Mario Arias Acevedo";
+<<<<<<< HEAD
     public static String GMCM = "Gabriela Maria Camacho Montejo";
     public static String DSBR = "Daniel Santiago Bermudez Rivera";
+=======
+    public static String GMCM = "Gabriela Maria Camacho Montejo"; 
+	public static String EAS = "Emanuel Alvarez Sanchez"; 
+>>>>>>> 1516f40950d39e75e43ca2421071d4ea66125001
 }
