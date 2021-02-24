@@ -1,6 +1,6 @@
 package co.edu.javeriana.calculator;
 
-public interface CalculatorDSBR {
+public interface CalculatorNBM {
 	@Override
 	
 	public double add(double a, double b)
