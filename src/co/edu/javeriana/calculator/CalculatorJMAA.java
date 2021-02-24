@@ -1,6 +1,6 @@
 package co.edu.javeriana.calculator;
 
-public class CalculatorSDS implements ICalculator {
+public class CalculatorJMAA implements ICalculator {
 	
 	@Override
 	public double add(double a, double b){
