@@ -9,5 +9,6 @@ public class Authors {
 	public static String JCBS ="Julian Camilo Builes Serrano";
 	public static String SDS = "Sim�n D�vila Saravia";
 	public static String JFH = "Juan Francisco Hamon";
-        public static String JMAA = "Jose Mario Arias Acevedo";
+    public static String JMAA = "Jose Mario Arias Acevedo";
+    public static String GMCM = "Gabriela Maria Camacho Montejo"; 
 }
