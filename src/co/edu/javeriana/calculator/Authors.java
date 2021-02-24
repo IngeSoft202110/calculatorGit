@@ -13,7 +13,8 @@ public class Authors {
     public static String GMCM = "Gabriela Maria Camacho Montejo";
     public static String DSBR = "Daniel Santiago Bermudez Rivera";
 	public static String EAS = "Emanuel Alvarez Sanchez"; 
-        public static String JSGV = "John Stiven Garcia Vargas";
+    public static String JSGV = "John Stiven Garcia Vargas";
 	public static String NBM = "Nicolai Barrera Martinez";
+	public static String NPF = "Nicolas Perez Fonseca";
 
 }
