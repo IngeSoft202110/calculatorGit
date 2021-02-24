@@ -7,5 +7,6 @@ public class Authors {
 	public static String VRB = "Valentina Rozo Bernal";
 	public static String JDCN = "Juan Diego Campos Neira"; 
 	public static String JCBS ="Julian Camilo Builes Serrano";
-	public static String SDS = "Simón Dávila Saravia";
+	public static String SDS = "Simï¿½n Dï¿½vila Saravia";
+	public static String JFH = "Juan Francisco Hamon";
 }
