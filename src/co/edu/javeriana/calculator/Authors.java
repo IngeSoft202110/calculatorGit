@@ -11,4 +11,5 @@ public class Authors {
 	public static String JFH = "Juan Francisco Hamon";
     public static String JMAA = "Jose Mario Arias Acevedo";
     public static String GMCM = "Gabriela Maria Camacho Montejo"; 
+	public static String EAS = "Emanuel Alvarez Sanchez"; 
 }
